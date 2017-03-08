@@ -12,5 +12,8 @@
 ![Github](Github.JPG)
 
 * JPG muss groß geschrieben sein und Datei muss exakt den selben namen haben wie der Titel des Bildes
+* Push bei GUI um Bild reinzuladen auf github
 
 ![fcbayern](https://fcbayern.com/binaries/content/gallery/fc-bayern/homepage/saison-16-17/galerien/spiele/arsenal-fcb/arsfcb14_get_070317.jpg/arsfcb14_get_070317.jpg/fcbhippo%3Alargesixteentonine)
+
+
