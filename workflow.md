@@ -9,4 +9,4 @@
 
 # Bild und Link
 
-![Screenshot1](Github.jpeg)
+![Github](Github.JPG)
