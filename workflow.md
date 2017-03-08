@@ -15,5 +15,7 @@
 * Push bei GUI um Bild reinzuladen auf github
 
 ![fcbayern](https://fcbayern.com/binaries/content/gallery/fc-bayern/homepage/saison-16-17/galerien/spiele/arsenal-fcb/arsfcb14_get_070317.jpg/arsfcb14_get_070317.jpg/fcbhippo%3Alargesixteentonine)
-
+1. Bild im Projektordner speichern
+1. Anschließend den Namen des Bildes im Verzeichnis eingeben und den Link des Bildes dahinter kopieren
+1. Bild und md.-Datei in GUI rescanen und in github uploaden durch Push
 
